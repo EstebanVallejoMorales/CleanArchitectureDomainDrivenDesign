@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Data", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain", "CleanArchitecture.Domain\CleanArchitecture.Domain.csproj", "{8ECFEE8D-8993-4954-B2BE-0A83BD8718F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Models", "CleanArchitecture.Models\CleanArchitecture.Models.csproj", "{7E4BF2B6-D2DF-41D3-8D1A-653FCD4321F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8ECFEE8D-8993-4954-B2BE-0A83BD8718F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ECFEE8D-8993-4954-B2BE-0A83BD8718F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ECFEE8D-8993-4954-B2BE-0A83BD8718F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4BF2B6-D2DF-41D3-8D1A-653FCD4321F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4BF2B6-D2DF-41D3-8D1A-653FCD4321F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4BF2B6-D2DF-41D3-8D1A-653FCD4321F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4BF2B6-D2DF-41D3-8D1A-653FCD4321F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
